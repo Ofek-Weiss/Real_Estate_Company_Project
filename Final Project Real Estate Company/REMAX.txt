@@ -1,0 +1,103 @@
+REMAX
+remax.company@gmail.com
+999-999
+5
+4444
+1
+5
+3
+120
+2500000
+1
+0
+Shoshana Damari
+10
+Raanana
+0
+3333
+1
+4
+5
+450
+1000000
+0
+0
+Forest Hills
+14
+New York
+0
+2222
+0
+2
+1
+800
+180000
+1
+1
+Broadway Ave
+202
+Greenwich
+1
+2023
+100000
+1111
+0
+3
+2
+1200
+250000
+0
+0
+Main St
+101
+Springfield
+2
+2020
+100000
+2018
+200000
+5555
+1
+3
+2
+90
+9000
+1
+1
+Keshet
+20
+Tel Aviv
+0
+4
+Jane Smith
+8
+7000
+John Doe
+5
+5000
+Max Brown
+2
+15000
+Ofek Weiss
+3
+20000
+4
+Alice Johnson
+300000
+Bob Williams
+450000
+Shoam Tomer
+3000000
+Robert Jackson
+50000
+2
+John Doe
+1111
+1/1/2020
+Alice Johnson
+40000
+John Doe
+2222
+1/1/2020
+Bob Williams
+50000
